@@ -1,18 +1,3 @@
-Hi Lukasz,
-
- 
-
-Thank-you for applying for the PHP Developer position at Parka Group Inc. As part of our recruitment process we’d like you to complete the questions below to help us assess your skills and knowledge.
-
-Answers to the questions should be checked into a public GIT repository and a project link returned to: eric@parka.ca
-
-Please complete the questions within two days of receipt of this email.
-
-We'll be in touch after we review your results.  Only those who qualify will be invited for an interview.
-
- Thank you.
-
-
 1. Write a function that will sanitize input.
 
 Consider an application in which a website user can post comments to an article. Write a function that will sanitize the comment submission. The function:
