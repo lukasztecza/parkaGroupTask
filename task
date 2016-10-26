@@ -1,0 +1,82 @@
+Hi Lukasz,
+
+ 
+
+Thank-you for applying for the PHP Developer position at Parka Group Inc. As part of our recruitment process we’d like you to complete the questions below to help us assess your skills and knowledge.
+
+Answers to the questions should be checked into a public GIT repository and a project link returned to: eric@parka.ca
+
+Please complete the questions within two days of receipt of this email.
+
+We'll be in touch after we review your results.  Only those who qualify will be invited for an interview.
+
+ Thank you.
+
+
+1. Write a function that will sanitize input.
+
+Consider an application in which a website user can post comments to an article. Write a function that will sanitize the comment submission. The function:
+
+ 
+
+-        should allow 4 basic HTML tags are allowed: a, b, i, img
+
+-        should analyze security issues and sanitize input accordingly
+
+-        may consist of calls to empty functions that describe what you want to do (i.e. you do not have to write code for these called functions)
+
+ 
+
+2. Design a mysql database and write SQL queries.
+
+Business objects:
+
+-        Hierarchical categories with names.
+
+-        Items for sale with name and price.
+
+-        Item type. Each item has a type - for example table, cup, fork.
+
+ 
+
+Relations:
+
+-        One category can hold many items.
+
+-        One item can be placed only to one category.
+
+-        One item has only one type describing it.
+
+ 
+
+Write sql/php:
+
+-        To get all items from category 'X'
+
+-        To get all items from category 'X' including all sub-categories
+
+ 
+
+3. Write a function that calculates a passed array’s depth.
+
+-        Array is passed to the function as parameter.
+
+-        Calculate maximum level of nested arrays.
+
+-        Extra point if you can check array structure for links making infinite cycle.
+
+ 
+
+4. Design a php class or classes.
+
+Write a class (or classes) that demonstrates your knowledge of OOP:
+
+ 
+
+-        The php class is used to send website notifications over different media (mail, SMS, IRC).
+
+-        Create a function to send a message (actual function may be empty)
+
+
+
+Letter Value: D398C5-E5157 
